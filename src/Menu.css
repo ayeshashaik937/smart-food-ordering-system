@@ -1,0 +1,43 @@
+.order-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.order-btn:hover {
+  opacity: 0.9;
+}
+.card img{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+buttons {
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin: 5px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.buttons button:hover {
+  background-color: #ff5e78;
+  color: white;
+}
+
+.category {
+  font-weight: bold;
+  color: #333;
+}
