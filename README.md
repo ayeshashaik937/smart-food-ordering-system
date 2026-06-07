@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# smart-food-ordering-system
+A React-based digital menu application that allows customers to browse breakfast, lunch and dinner menus, select dishes, confirm orders and automatically calculate the total bill based on selected dishes. The system provides an interactive and user-friendly interface for efficient food ordering and bill management.
+>>>>>>> 0bc4aaa621b369665e1803e164e6d48b0beeffdd
